@@ -26,6 +26,6 @@ class MyEvent implements ShouldBroadcast
 
   public function broadcastAs()
   {
-      return 'event-pharma';
+      return 'my-event';
   }
 }
