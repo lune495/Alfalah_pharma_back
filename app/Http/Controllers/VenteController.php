@@ -29,6 +29,7 @@ class VenteController extends Controller
     public function Notif()
     {
         $data = Outil::getOneItemWithGraphQl($this->queryName,9, true);
+        $data = "Alioune Badara Dieng";
         event(new MyEvent($data));
     }
 
