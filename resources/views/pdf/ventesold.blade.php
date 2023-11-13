@@ -3,12 +3,12 @@
 @section('title', "PDF Facture commande")
 @section('content')
     <table style="border: none; border: none;margin-top:2px;font-size: 11px">
-    <tr  style="border: none">
-    <td style="border: none;"></td>
+        <tr  style="border: none">
             <td style="border: none;"></td>
             <td style="border: none;"></td>
             <td style="border: none;"></td>
-            </tr>
+            <td style="border: none;"></td>
+        </tr>
         <tr  style="border: none">
             <td  style="border: none">
                 <div style="" >
