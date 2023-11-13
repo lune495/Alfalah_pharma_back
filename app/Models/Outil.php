@@ -58,7 +58,7 @@ class Outil extends Model
         $queryAttr = Outil::$queries[$queryName];
         $response = $guzzleClient->get("{$name_env}graphql?query={{$queryName}({$critere}){{$queryAttr}}}");
         $data = json_decode($response->getBody(), true);
-        dd($data);
+        // dd($data);
         return ($justone) ? $data['data'][$queryName][0] : $data;
     }
     public static function setParametersExecution()
