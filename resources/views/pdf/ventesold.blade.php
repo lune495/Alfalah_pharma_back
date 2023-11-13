@@ -11,8 +11,8 @@
             <td  style="border: none">
                 <div style="" >
                     <p  style="text-align:left;line-height:5px">ALFALAH rue 14 Niangor colobane</p>
-                    <p style="text-align:left;line-height:5px"> +221 33 821 25 12</p>
-                    <p style="text-align:left;line-height:5px"> 77 270 72 22</p>
+                    <p style="text-align:left;line-height:5px"> +221 33 823 04 43</p>
+                    <p style="text-align:left;line-height:5px"> 30 104 22 71</p>
                 </div>
             </td>
             <td style="border:none;">
