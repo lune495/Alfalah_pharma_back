@@ -3,11 +3,13 @@
 @section('title', "PDF Facture commande")
 @section('content')
     <table style="border: none; border: none;margin-top:2px;font-size: 11px">
+    <tr  style="border: none">
+    <td style="border: none;"></td>
+            <td style="border: none;"></td>
+            <td style="border: none;"></td>
+            <td style="border: none;"></td>
+            </tr>
         <tr  style="border: none">
-           <td style="border: none;"></td>
-            <td style="border: none;"></td>
-            <td style="border: none;"></td>
-            <td style="border: none;"></td>
             <td  style="border: none">
                 <div style="" >
                     <p  style="text-align:left;line-height:5px">ALFALAH rue 14 Niangor colobane</p>
