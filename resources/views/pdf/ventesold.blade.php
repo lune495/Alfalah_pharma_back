@@ -3,24 +3,19 @@
 @section('title', "PDF Facture commande")
 @section('content')
     <table style="border: none; border: none;margin-top:2px;font-size: 11px">
-        <tr>
-            <td style="border: none">
-                <p style="font-weight: bold;font-size: 14px">CHIFAA</p>
-            </td>
-        </tr>
         <tr  style="border: none">
             <td  style="border: none">
                 <div style="" >
-                    <p  style="text-align:left;line-height:5px">CHIFAA No 023 Parcelles Assainies-Unité 24</p>
+                    <p  style="text-align:left;line-height:5px">ALFALAH rue 14 Niangor colobane</p>
                     <p style="text-align:left;line-height:5px"> +221 33 821 25 12</p>
                     <p style="text-align:left;line-height:5px"> 77 270 72 22</p>
                 </div>
             </td>
             <td style="border:none;">
                 <div style="border-left: 3px solid black">
-                    <p style="text-align:left ; margin-left:15px;line-height:5px ">www.chifaa.sn</p>
-                    <p style="text-align:left ; margin-left:15px;line-height:5px ">Instagram:  @chifaa²</p>
-                    <p style="text-align:left ; margin-left:15px;line-height:5px ">email:  chifaa@gmail.com</p>
+                    <p style="text-align:left ; margin-left:15px;line-height:5px ">www.alfalah.sn</p>
+                    <p style="text-align:left ; margin-left:15px;line-height:5px ">Instagram:  @alfalah</p>
+                    <p style="text-align:left ; margin-left:15px;line-height:5px ">email:  alfalah@gmail.com</p>
                 </div>
             </td>
             <td style="border:none;"></td>
