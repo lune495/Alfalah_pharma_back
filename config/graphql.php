@@ -117,7 +117,7 @@ return [
             ],
 
             // Laravel HTTP middleware
-            'middleware' => ['auth'],
+            'middleware' => ['web'],
 
             // Which HTTP methods to support; must be given in UPPERCASE!
             'method' => ['GET', 'POST'],
